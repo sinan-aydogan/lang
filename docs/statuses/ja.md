@@ -4,59 +4,62 @@ editLink: false
 
 # ja
 
-##### All missed: 11
+##### All missed: 4
 
 
-### [ja](https://github.com/Laravel-Lang/lang/blob/main/locales/ja/ja.json)
+### json
 
-##### Missing: 11
+##### Missing: 3
 
-<table >
-<tr><td align="left" >
-A new verification link has been sent to the email address you provided in your profile settings.
-</td>
-</tr>
-<tr><td align="left" >
-A new verification link has been sent to your email address.
-</td>
-</tr>
-<tr><td align="left" >
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-</td>
-</tr>
-<tr><td align="left" >
-Click here to re-send the verification email.
-</td>
-</tr>
-<tr><td align="left" >
-Edit Profile
-</td>
-</tr>
-<tr><td align="left" >
-ID
-</td>
-</tr>
-<tr><td align="left" >
-If you did not receive the email
-</td>
-</tr>
-<tr><td align="left" >
-Setup Key
-</td>
-</tr>
-<tr><td align="left" >
-Signed in as
-</td>
-</tr>
-<tr><td align="left" >
-Thanks,
-</td>
-</tr>
-<tr><td align="left" >
-Your email address is unverified.
-</td>
-</tr>
+<table width="100%">
+<tr><td width="50%">
 
+From
+
+</td><td width="50%">
+
+From
+
+</td></tr>
+<tr><td width="50%">
+
+The action was executed successfully.
+
+</td><td width="50%">
+
+The action was executed successfully.
+
+</td></tr>
+<tr><td width="50%">
+
+To
+
+</td><td width="50%">
+
+To
+
+</td></tr>
 </table>
 
+[ [go back](../status.md) | [to top](#) ]
+
+
+
+### php
+
+##### Missing: 1
+
+<table width="100%">
+<tr><td width="50%">
+
+doesnt_end_with
+
+</td><td width="50%">
+
+The :attribute may not end with one of the following: :values.
+
+</td></tr>
+</table>
+
+[ [go back](../status.md) | [to top](#) ]
 
