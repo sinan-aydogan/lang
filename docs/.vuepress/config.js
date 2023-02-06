@@ -1,10 +1,11 @@
-const fs = require('fs')
-const path = require('path')
+import fs from 'fs'
+import path from 'path'
+import dotenv from 'dotenv'
 
-const { viteBundler, defaultTheme } = require('vuepress')
-const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
+import { defaultTheme, viteBundler } from 'vuepress'
+import { docsearchPlugin } from '@vuepress/plugin-docsearch'
 
-require('dotenv').config()
+dotenv.config()
 
 const hostname = 'laravel-lang.com'
 
@@ -37,7 +38,7 @@ module.exports = {
 
         navbar: [
             { text: 'Translations Status', link: '/status.md' },
-            { text: '11.x', link: '/changelog/11.x.md' }
+            { text: '12.x', link: '/changelog/12.x.md' }
         ],
 
         sidebarDepth: 1,

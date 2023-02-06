@@ -4,268 +4,363 @@ editLink: false
 
 # vi
 
-##### All missed: 26
-
-
-### json-inline
-
-##### Missing: 14
-
-<table width="100%">
-<tr><td width="50%">
-
-The :attribute must be a valid role.
-
-</td><td width="50%">
-
-This field must be a valid role.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters.
-
-</td><td width="50%">
-
-This field must be at least :length characters.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 38
 
 
 ### json
 
-##### Missing: 11
+##### Missing: 38
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-From
+Alabama
 
 </td><td width="50%">
 
-From
+Alabama
 
 </td></tr>
 <tr><td width="50%">
 
-Log Viewer
+Alberta
 
 </td><td width="50%">
 
-Log Viewer
+Alberta
 
 </td></tr>
 <tr><td width="50%">
 
-Logs
+API
 
 </td><td width="50%">
 
-Logs
+API
 
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Arkansas
 
 </td><td width="50%">
 
-Refresh
+Arkansas
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to bottom
+British Columbia
 
 </td><td width="50%">
 
-Scroll to bottom
+British Columbia
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to top
+Colorado
 
 </td><td width="50%">
 
-Scroll to top
+Colorado
 
 </td></tr>
 <tr><td width="50%">
 
-Select a log file...
+Connecticut
 
 </td><td width="50%">
 
-Select a log file...
+Connecticut
 
 </td></tr>
 <tr><td width="50%">
 
-Start polling
+Delaware
 
 </td><td width="50%">
 
-Start polling
+Delaware
 
 </td></tr>
 <tr><td width="50%">
 
-Stop polling
+Florida
 
 </td><td width="50%">
 
-Stop polling
+Florida
 
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+Idaho
 
 </td><td width="50%">
 
-The action was executed successfully.
+Idaho
 
 </td></tr>
 <tr><td width="50%">
 
-To
+Illinois
 
 </td><td width="50%">
 
-To
+Illinois
 
 </td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 1
-
-<table width="100%">
 <tr><td width="50%">
 
-doesnt_end_with
+Iowa
 
 </td><td width="50%">
 
-The :attribute may not end with one of the following: :values.
+Iowa
+
+</td></tr>
+<tr><td width="50%">
+
+Kansas
+
+</td><td width="50%">
+
+Kansas
+
+</td></tr>
+<tr><td width="50%">
+
+Kentucky
+
+</td><td width="50%">
+
+Kentucky
+
+</td></tr>
+<tr><td width="50%">
+
+Maine
+
+</td><td width="50%">
+
+Maine
+
+</td></tr>
+<tr><td width="50%">
+
+Manitoba
+
+</td><td width="50%">
+
+Manitoba
+
+</td></tr>
+<tr><td width="50%">
+
+Massachusetts
+
+</td><td width="50%">
+
+Massachusetts
+
+</td></tr>
+<tr><td width="50%">
+
+Michigan
+
+</td><td width="50%">
+
+Michigan
+
+</td></tr>
+<tr><td width="50%">
+
+Minnesota
+
+</td><td width="50%">
+
+Minnesota
+
+</td></tr>
+<tr><td width="50%">
+
+Mississippi
+
+</td><td width="50%">
+
+Mississippi
+
+</td></tr>
+<tr><td width="50%">
+
+Missouri
+
+</td><td width="50%">
+
+Missouri
+
+</td></tr>
+<tr><td width="50%">
+
+mo
+
+</td><td width="50%">
+
+mo
+
+</td></tr>
+<tr><td width="50%">
+
+Montana
+
+</td><td width="50%">
+
+Montana
+
+</td></tr>
+<tr><td width="50%">
+
+Nebraska
+
+</td><td width="50%">
+
+Nebraska
+
+</td></tr>
+<tr><td width="50%">
+
+Nevada
+
+</td><td width="50%">
+
+Nevada
+
+</td></tr>
+<tr><td width="50%">
+
+New Brunswick
+
+</td><td width="50%">
+
+New Brunswick
+
+</td></tr>
+<tr><td width="50%">
+
+Nova Scotia
+
+</td><td width="50%">
+
+Nova Scotia
+
+</td></tr>
+<tr><td width="50%">
+
+Nunavut
+
+</td><td width="50%">
+
+Nunavut
+
+</td></tr>
+<tr><td width="50%">
+
+Ohio
+
+</td><td width="50%">
+
+Ohio
+
+</td></tr>
+<tr><td width="50%">
+
+Ontario
+
+</td><td width="50%">
+
+Ontario
+
+</td></tr>
+<tr><td width="50%">
+
+Oregon
+
+</td><td width="50%">
+
+Oregon
+
+</td></tr>
+<tr><td width="50%">
+
+Saskatchewan
+
+</td><td width="50%">
+
+Saskatchewan
+
+</td></tr>
+<tr><td width="50%">
+
+Tennessee
+
+</td><td width="50%">
+
+Tennessee
+
+</td></tr>
+<tr><td width="50%">
+
+Texas
+
+</td><td width="50%">
+
+Texas
+
+</td></tr>
+<tr><td width="50%">
+
+Virginia
+
+</td><td width="50%">
+
+Virginia
+
+</td></tr>
+<tr><td width="50%">
+
+Wisconsin
+
+</td><td width="50%">
+
+Wisconsin
+
+</td></tr>
+<tr><td width="50%">
+
+Wyoming
+
+</td><td width="50%">
+
+Wyoming
+
+</td></tr>
+<tr><td width="50%">
+
+Yukon
+
+</td><td width="50%">
+
+Yukon
 
 </td></tr>
 </table>

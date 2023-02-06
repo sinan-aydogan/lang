@@ -4,7 +4,7 @@ editLink: false
 
 # bn
 
-##### All missed: 4
+##### All missed: 3
 
 
 ### json
@@ -12,51 +12,40 @@ editLink: false
 ##### Missing: 3
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-From
+API
 
 </td><td width="50%">
 
-From
+API
 
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+mo
 
 </td><td width="50%">
 
-The action was executed successfully.
+mo
 
 </td></tr>
 <tr><td width="50%">
 
-To
+N/A
 
 </td><td width="50%">
 
-To
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 1
-
-<table width="100%">
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
+N/A
 
 </td></tr>
 </table>

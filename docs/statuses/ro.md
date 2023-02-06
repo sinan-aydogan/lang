@@ -4,205 +4,23 @@ editLink: false
 
 # ro
 
-##### All missed: 254
-
-
-### json-inline
-
-##### Missing: 14
-
-<table width="100%">
-<tr><td width="50%">
-
-The :attribute must be a valid role.
-
-</td><td width="50%">
-
-This field must be a valid role.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters.
-
-</td><td width="50%">
-
-This field must be at least :length characters.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 170
 
 
 ### json
 
-##### Missing: 233
+##### Missing: 170
 
 <table width="100%">
-<tr><td width="50%">
+<tr><th width="50%">
 
-A fresh verification link has been sent to your email address.
+Key
 
-</td><td width="50%">
+</th><th width="50%">
 
-A fresh verification link has been sent to your email address.
+Value
 
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td><td width="50%">
-
-A new verification link has been sent to the email address you provided in your profile settings.
-
-</td></tr>
-<tr><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td><td width="50%">
-
-A new verification link has been sent to your email address.
-
-</td></tr>
-<tr><td width="50%">
-
-Add VAT Number
-
-</td><td width="50%">
-
-Add VAT Number
-
-</td></tr>
-<tr><td width="50%">
-
-Address
-
-</td><td width="50%">
-
-Address
-
-</td></tr>
-<tr><td width="50%">
-
-Address Line 2
-
-</td><td width="50%">
-
-Address Line 2
-
-</td></tr>
+</th></tr>
 <tr><td width="50%">
 
 Administrator
@@ -210,6 +28,24 @@ Administrator
 </td><td width="50%">
 
 Administrator
+
+</td></tr>
+<tr><td width="50%">
+
+Alabama
+
+</td><td width="50%">
+
+Alabama
+
+</td></tr>
+<tr><td width="50%">
+
+Alaska
+
+</td><td width="50%">
+
+Alaska
 
 </td></tr>
 <tr><td width="50%">
@@ -223,29 +59,20 @@ Albania
 </td></tr>
 <tr><td width="50%">
 
+Alberta
+
+</td><td width="50%">
+
+Alberta
+
+</td></tr>
+<tr><td width="50%">
+
 Algeria
 
 </td><td width="50%">
 
 Algeria
-
-</td></tr>
-<tr><td width="50%">
-
-An error occurred while uploading the file.
-
-</td><td width="50%">
-
-An error occurred while uploading the file.
-
-</td></tr>
-<tr><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
-
-</td><td width="50%">
-
-An unexpected error occurred and we have notified our support team. Please try again later.
 
 </td></tr>
 <tr><td width="50%">
@@ -286,56 +113,11 @@ Antarctica
 </td></tr>
 <tr><td width="50%">
 
-Antigua and Barbuda
+API
 
 </td><td width="50%">
 
-Antigua and Barbuda
-
-</td></tr>
-<tr><td width="50%">
-
-Apply
-
-</td><td width="50%">
-
-Apply
-
-</td></tr>
-<tr><td width="50%">
-
-Apply Coupon
-
-</td><td width="50%">
-
-Apply Coupon
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td><td width="50%">
-
-Are you sure you want to delete this notification?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to log out?
-
-</td><td width="50%">
-
-Are you sure you want to log out?
-
-</td></tr>
-<tr><td width="50%">
-
-Are you sure you want to stop impersonating?
-
-</td><td width="50%">
-
-Are you sure you want to stop impersonating?
+API
 
 </td></tr>
 <tr><td width="50%">
@@ -345,6 +127,24 @@ Argentina
 </td><td width="50%">
 
 Argentina
+
+</td></tr>
+<tr><td width="50%">
+
+Arizona
+
+</td><td width="50%">
+
+Arizona
+
+</td></tr>
+<tr><td width="50%">
+
+Arkansas
+
+</td><td width="50%">
+
+Arkansas
 
 </td></tr>
 <tr><td width="50%">
@@ -430,33 +230,6 @@ Barbados
 </td></tr>
 <tr><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td><td width="50%">
-
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
-
-</td></tr>
-<tr><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td><td width="50%">
-
-Before proceeding, please check your email for a verification link.
-
-</td></tr>
-<tr><td width="50%">
-
-Belarus
-
-</td><td width="50%">
-
-Belarus
-
-</td></tr>
-<tr><td width="50%">
-
 Belize
 
 </td><td width="50%">
@@ -475,38 +248,11 @@ Benin
 </td></tr>
 <tr><td width="50%">
 
-Bermuda
-
-</td><td width="50%">
-
-Bermuda
-
-</td></tr>
-<tr><td width="50%">
-
 Bhutan
 
 </td><td width="50%">
 
 Bhutan
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Information
-
-</td><td width="50%">
-
-Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
-Billing Management
-
-</td><td width="50%">
-
-Billing Management
 
 </td></tr>
 <tr><td width="50%">
@@ -520,29 +266,20 @@ Bolivia
 </td></tr>
 <tr><td width="50%">
 
-Bolivia, Plurinational State of
-
-</td><td width="50%">
-
-Bolivia, Plurinational State of
-
-</td></tr>
-<tr><td width="50%">
-
-Bosnia and Herzegovina
-
-</td><td width="50%">
-
-Bosnia and Herzegovina
-
-</td></tr>
-<tr><td width="50%">
-
 Botswana
 
 </td><td width="50%">
 
 Botswana
+
+</td></tr>
+<tr><td width="50%">
+
+British Columbia
+
+</td><td width="50%">
+
+British Columbia
 
 </td></tr>
 <tr><td width="50%">
@@ -574,29 +311,20 @@ Burundi
 </td></tr>
 <tr><td width="50%">
 
+California
+
+</td><td width="50%">
+
+California
+
+</td></tr>
+<tr><td width="50%">
+
 Canada
 
 </td><td width="50%">
 
 Canada
-
-</td></tr>
-<tr><td width="50%">
-
-Cancel Subscription
-
-</td><td width="50%">
-
-Cancel Subscription
-
-</td></tr>
-<tr><td width="50%">
-
-Change Subscription Plan
-
-</td><td width="50%">
-
-Change Subscription Plan
 
 </td></tr>
 <tr><td width="50%">
@@ -619,29 +347,11 @@ China
 </td></tr>
 <tr><td width="50%">
 
-City
+Colorado
 
 </td><td width="50%">
 
-City
-
-</td></tr>
-<tr><td width="50%">
-
-Click here to re-send the verification email.
-
-</td><td width="50%">
-
-Click here to re-send the verification email.
-
-</td></tr>
-<tr><td width="50%">
-
-click here to request another
-
-</td><td width="50%">
-
-click here to request another
+Colorado
 
 </td></tr>
 <tr><td width="50%">
@@ -655,20 +365,11 @@ Congo
 </td></tr>
 <tr><td width="50%">
 
-Congo, the Democratic Republic of the
+Connecticut
 
 </td><td width="50%">
 
-Congo, the Democratic Republic of the
-
-</td></tr>
-<tr><td width="50%">
-
-Copy to clipboard
-
-</td><td width="50%">
-
-Copy to clipboard
+Connecticut
 
 </td></tr>
 <tr><td width="50%">
@@ -691,47 +392,11 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-Country
-
-</td><td width="50%">
-
-Country
-
-</td></tr>
-<tr><td width="50%">
-
-Coupon
-
-</td><td width="50%">
-
-Coupon
-
-</td></tr>
-<tr><td width="50%">
-
 Cuba
 
 </td><td width="50%">
 
 Cuba
-
-</td></tr>
-<tr><td width="50%">
-
-Current Subscription Plan
-
-</td><td width="50%">
-
-Current Subscription Plan
-
-</td></tr>
-<tr><td width="50%">
-
-Currently Subscribed
-
-</td><td width="50%">
-
-Currently Subscribed
 
 </td></tr>
 <tr><td width="50%">
@@ -745,11 +410,11 @@ Côte d'Ivoire
 </td></tr>
 <tr><td width="50%">
 
-Dark
+Delaware
 
 </td><td width="50%">
 
-Dark
+Delaware
 
 </td></tr>
 <tr><td width="50%">
@@ -763,38 +428,11 @@ Djibouti
 </td></tr>
 <tr><td width="50%">
 
-Download Receipt
-
-</td><td width="50%">
-
-Download Receipt
-
-</td></tr>
-<tr><td width="50%">
-
-E-Mail Address
-
-</td><td width="50%">
-
-E-Mail Address
-
-</td></tr>
-<tr><td width="50%">
-
 Ecuador
 
 </td><td width="50%">
 
 Ecuador
-
-</td></tr>
-<tr><td width="50%">
-
-Edit Profile
-
-</td><td width="50%">
-
-Edit Profile
 
 </td></tr>
 <tr><td width="50%">
@@ -808,56 +446,11 @@ Editor
 </td></tr>
 <tr><td width="50%">
 
-Email Addresses
-
-</td><td width="50%">
-
-Email Addresses
-
-</td></tr>
-<tr><td width="50%">
-
-Error
-
-</td><td width="50%">
-
-Error
-
-</td></tr>
-<tr><td width="50%">
-
 Estonia
 
 </td><td width="50%">
 
 Estonia
-
-</td></tr>
-<tr><td width="50%">
-
-ex VAT
-
-</td><td width="50%">
-
-ex VAT
-
-</td></tr>
-<tr><td width="50%">
-
-Extra Billing Information
-
-</td><td width="50%">
-
-Extra Billing Information
-
-</td></tr>
-<tr><td width="50%">
-
-Failed to load :resource!
-
-</td><td width="50%">
-
-Failed to load :resource!
 
 </td></tr>
 <tr><td width="50%">
@@ -871,29 +464,11 @@ Fiji
 </td></tr>
 <tr><td width="50%">
 
-Finish enabling two factor authentication.
+Florida
 
 </td><td width="50%">
 
-Finish enabling two factor authentication.
-
-</td></tr>
-<tr><td width="50%">
-
-Forgot Password
-
-</td><td width="50%">
-
-Forgot Password
-
-</td></tr>
-<tr><td width="50%">
-
-From
-
-</td><td width="50%">
-
-From
+Florida
 
 </td></tr>
 <tr><td width="50%">
@@ -997,29 +572,11 @@ Haiti
 </td></tr>
 <tr><td width="50%">
 
-Have a coupon code?
+Hawaii
 
 </td><td width="50%">
 
-Have a coupon code?
-
-</td></tr>
-<tr><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td><td width="50%">
-
-Having second thoughts about cancelling your subscription? You can instantly reactive your subscription at any time until the end of your current billing cycle. After your current billing cycle ends, you may choose an entirely new subscription plan.
-
-</td></tr>
-<tr><td width="50%">
-
-Heard Island and McDonald Islands
-
-</td><td width="50%">
-
-Heard Island and McDonald Islands
+Hawaii
 
 </td></tr>
 <tr><td width="50%">
@@ -1042,15 +599,6 @@ Hong Kong
 </td></tr>
 <tr><td width="50%">
 
-I accept the terms of service
-
-</td><td width="50%">
-
-I accept the terms of service
-
-</td></tr>
-<tr><td width="50%">
-
 ID
 
 </td><td width="50%">
@@ -1060,38 +608,20 @@ ID
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+Idaho
 
 </td><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+Idaho
 
 </td></tr>
 <tr><td width="50%">
 
-If you did not receive the email
+Illinois
 
 </td><td width="50%">
 
-If you did not receive the email
-
-</td></tr>
-<tr><td width="50%">
-
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td><td width="50%">
-
-If you need to add specific contact or tax information to your receipts, like your full business name, VAT identification number, or address of record, you may add it here.
-
-</td></tr>
-<tr><td width="50%">
-
-Impersonate
-
-</td><td width="50%">
-
-Impersonate
+Illinois
 
 </td></tr>
 <tr><td width="50%">
@@ -1105,29 +635,20 @@ India
 </td></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic Of
+Indiana
 
 </td><td width="50%">
 
-Iran
+Indiana
 
 </td></tr>
 <tr><td width="50%">
 
-Iran, Islamic Republic of
+Iowa
 
 </td><td width="50%">
 
-Iran, Islamic Republic of
-
-</td></tr>
-<tr><td width="50%">
-
-Isle of Man
-
-</td><td width="50%">
-
-Isle of Man
+Iowa
 
 </td></tr>
 <tr><td width="50%">
@@ -1141,15 +662,6 @@ Israel
 </td></tr>
 <tr><td width="50%">
 
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-
-</td><td width="50%">
-
-It looks like you do not have an active subscription. You may choose one of the subscription plans below to get started. Subscription plans may be changed or cancelled at your convenience.
-
-</td></tr>
-<tr><td width="50%">
-
 Jamaica
 
 </td><td width="50%">
@@ -1159,11 +671,20 @@ Jamaica
 </td></tr>
 <tr><td width="50%">
 
-Jane Doe
+Kansas
 
 </td><td width="50%">
 
-Jane Doe
+Kansas
+
+</td></tr>
+<tr><td width="50%">
+
+Kentucky
+
+</td><td width="50%">
+
+Kentucky
 
 </td></tr>
 <tr><td width="50%">
@@ -1182,15 +703,6 @@ Kiribati
 </td><td width="50%">
 
 Kiribati
-
-</td></tr>
-<tr><td width="50%">
-
-Korea, Republic of
-
-</td><td width="50%">
-
-Korea, Republic of
 
 </td></tr>
 <tr><td width="50%">
@@ -1231,47 +743,11 @@ Liechtenstein
 </td></tr>
 <tr><td width="50%">
 
-Light
+Louisiana
 
 </td><td width="50%">
 
-Light
-
-</td></tr>
-<tr><td width="50%">
-
-Log In
-
-</td><td width="50%">
-
-Log In
-
-</td></tr>
-<tr><td width="50%">
-
-Log Viewer
-
-</td><td width="50%">
-
-Log Viewer
-
-</td></tr>
-<tr><td width="50%">
-
-Logout Other Browser Sessions
-
-</td><td width="50%">
-
-Logout Other Browser Sessions
-
-</td></tr>
-<tr><td width="50%">
-
-Logs
-
-</td><td width="50%">
-
-Logs
+Louisiana
 
 </td></tr>
 <tr><td width="50%">
@@ -1285,20 +761,20 @@ Macao
 </td></tr>
 <tr><td width="50%">
 
-Macedonia, the former Yugoslav Republic of
+Madagascar
 
 </td><td width="50%">
 
-Macedonia, the former Yugoslav Republic of
+Madagascar
 
 </td></tr>
 <tr><td width="50%">
 
-Madagascar
+Maine
 
 </td><td width="50%">
 
-Madagascar
+Maine
 
 </td></tr>
 <tr><td width="50%">
@@ -1321,29 +797,29 @@ Malta
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Manitoba
 
 </td><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Manitoba
 
 </td></tr>
 <tr><td width="50%">
 
-Managing billing for :billableName
+Maryland
 
 </td><td width="50%">
 
-Managing billing for :billableName
+Maryland
 
 </td></tr>
 <tr><td width="50%">
 
-Mark all as Read
+Massachusetts
 
 </td><td width="50%">
 
-Mark all as Read
+Massachusetts
 
 </td></tr>
 <tr><td width="50%">
@@ -1375,6 +851,42 @@ Mayotte
 </td></tr>
 <tr><td width="50%">
 
+Michigan
+
+</td><td width="50%">
+
+Michigan
+
+</td></tr>
+<tr><td width="50%">
+
+Minnesota
+
+</td><td width="50%">
+
+Minnesota
+
+</td></tr>
+<tr><td width="50%">
+
+Mississippi
+
+</td><td width="50%">
+
+Mississippi
+
+</td></tr>
+<tr><td width="50%">
+
+Missouri
+
+</td><td width="50%">
+
+Missouri
+
+</td></tr>
+<tr><td width="50%">
+
 Moldova
 
 </td><td width="50%">
@@ -1402,20 +914,11 @@ Mongolia
 </td></tr>
 <tr><td width="50%">
 
-Monthly
+Montana
 
 </td><td width="50%">
 
-Monthly
-
-</td></tr>
-<tr><td width="50%">
-
-monthly
-
-</td><td width="50%">
-
-monthly
+Montana
 
 </td></tr>
 <tr><td width="50%">
@@ -1456,6 +959,15 @@ Nauru
 </td></tr>
 <tr><td width="50%">
 
+Nebraska
+
+</td><td width="50%">
+
+Nebraska
+
+</td></tr>
+<tr><td width="50%">
+
 Nepal
 
 </td><td width="50%">
@@ -1465,29 +977,56 @@ Nepal
 </td></tr>
 <tr><td width="50%">
 
-Netherlands Antilles
+Nevada
 
 </td><td width="50%">
 
-Netherlands Antilles
+Nevada
 
 </td></tr>
 <tr><td width="50%">
 
-Nevermind
+New Brunswick
 
 </td><td width="50%">
 
-Nevermind
+New Brunswick
 
 </td></tr>
 <tr><td width="50%">
 
-Nevermind, I'll keep my old plan
+New Hampshire
 
 </td><td width="50%">
 
-Nevermind, I'll keep my old plan
+New Hampshire
+
+</td></tr>
+<tr><td width="50%">
+
+New Jersey
+
+</td><td width="50%">
+
+New Jersey
+
+</td></tr>
+<tr><td width="50%">
+
+New Mexico
+
+</td><td width="50%">
+
+New Mexico
+
+</td></tr>
+<tr><td width="50%">
+
+New York
+
+</td><td width="50%">
+
+New York
 
 </td></tr>
 <tr><td width="50%">
@@ -1528,11 +1067,38 @@ Niue
 </td></tr>
 <tr><td width="50%">
 
-Notifications
+Nova Scotia
 
 </td><td width="50%">
 
-Notifications
+Nova Scotia
+
+</td></tr>
+<tr><td width="50%">
+
+Nunavut
+
+</td><td width="50%">
+
+Nunavut
+
+</td></tr>
+<tr><td width="50%">
+
+Ohio
+
+</td><td width="50%">
+
+Ohio
+
+</td></tr>
+<tr><td width="50%">
+
+Oklahoma
+
+</td><td width="50%">
+
+Oklahoma
 
 </td></tr>
 <tr><td width="50%">
@@ -1546,20 +1112,29 @@ Oman
 </td></tr>
 <tr><td width="50%">
 
-Original
+Ontario
 
 </td><td width="50%">
 
-Original
+Ontario
 
 </td></tr>
 <tr><td width="50%">
 
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+Oregon
 
 </td><td width="50%">
 
-Our billing management portal allows you to conveniently manage your subscription plan, payment method, and download your recent invoices.
+Oregon
+
+</td></tr>
+<tr><td width="50%">
+
+Original
+
+</td><td width="50%">
+
+Original
 
 </td></tr>
 <tr><td width="50%">
@@ -1600,56 +1175,20 @@ Paraguay
 </td></tr>
 <tr><td width="50%">
 
+Pennsylvania
+
+</td><td width="50%">
+
+Pennsylvania
+
+</td></tr>
+<tr><td width="50%">
+
 Peru
 
 </td><td width="50%">
 
 Peru
-
-</td></tr>
-<tr><td width="50%">
-
-Please confirm your password before continuing.
-
-</td><td width="50%">
-
-Please confirm your password before continuing.
-
-</td></tr>
-<tr><td width="50%">
-
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td><td width="50%">
-
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide a maximum of three receipt emails addresses.
-
-</td><td width="50%">
-
-Please provide a maximum of three receipt emails addresses.
-
-</td></tr>
-<tr><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td><td width="50%">
-
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
-
-</td></tr>
-<tr><td width="50%">
-
-Previewing
-
-</td><td width="50%">
-
-Previewing
 
 </td></tr>
 <tr><td width="50%">
@@ -1672,38 +1211,11 @@ Qatar
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Quebec
 
 </td><td width="50%">
 
-Refresh
-
-</td></tr>
-<tr><td width="50%">
-
-Replicate
-
-</td><td width="50%">
-
-Replicate
-
-</td></tr>
-<tr><td width="50%">
-
-Resource Row Dropdown
-
-</td><td width="50%">
-
-Resource Row Dropdown
-
-</td></tr>
-<tr><td width="50%">
-
-Romania
-
-</td><td width="50%">
-
-Romania
+Quebec
 
 </td></tr>
 <tr><td width="50%">
@@ -1713,51 +1225,6 @@ Rwanda
 </td><td width="50%">
 
 Rwanda
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Barthélemy
-
-</td><td width="50%">
-
-Saint Barthélemy
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Kitts and Nevis
-
-</td><td width="50%">
-
-Saint Kitts and Nevis
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Martin (French part)
-
-</td><td width="50%">
-
-Saint Martin (French part)
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Pierre and Miquelon
-
-</td><td width="50%">
-
-Saint Pierre and Miquelon
-
-</td></tr>
-<tr><td width="50%">
-
-Saint Vincent and the Grenadines
-
-</td><td width="50%">
-
-Saint Vincent and the Grenadines
 
 </td></tr>
 <tr><td width="50%">
@@ -1780,38 +1247,11 @@ San Marino
 </td></tr>
 <tr><td width="50%">
 
-Sao Tome and Principe
+Saskatchewan
 
 </td><td width="50%">
 
-Sao Tome and Principe
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to bottom
-
-</td><td width="50%">
-
-Scroll to bottom
-
-</td></tr>
-<tr><td width="50%">
-
-Scroll to top
-
-</td><td width="50%">
-
-Scroll to top
-
-</td></tr>
-<tr><td width="50%">
-
-Select a log file...
-
-</td><td width="50%">
-
-Select a log file...
+Saskatchewan
 
 </td></tr>
 <tr><td width="50%">
@@ -1879,74 +1319,11 @@ Somalia
 </td></tr>
 <tr><td width="50%">
 
-South Georgia and the South Sandwich Islands
-
-</td><td width="50%">
-
-South Georgia and the South Sandwich Islands
-
-</td></tr>
-<tr><td width="50%">
-
-Sri Lanka
-
-</td><td width="50%">
-
-Sri Lanka
-
-</td></tr>
-<tr><td width="50%">
-
-Start polling
-
-</td><td width="50%">
-
-Start polling
-
-</td></tr>
-<tr><td width="50%">
-
-Stop Impersonating
-
-</td><td width="50%">
-
-Stop Impersonating
-
-</td></tr>
-<tr><td width="50%">
-
-Stop polling
-
-</td><td width="50%">
-
-Stop polling
-
-</td></tr>
-<tr><td width="50%">
-
 Sudan
 
 </td><td width="50%">
 
 Sudan
-
-</td></tr>
-<tr><td width="50%">
-
-Svalbard and Jan Mayen
-
-</td><td width="50%">
-
-Svalbard and Jan Mayen
-
-</td></tr>
-<tr><td width="50%">
-
-System
-
-</td><td width="50%">
-
-System
 
 </td></tr>
 <tr><td width="50%">
@@ -1969,92 +1346,20 @@ Tanzania
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+Tennessee
 
 </td><td width="50%">
 
-The action was executed successfully.
+Tennessee
 
 </td></tr>
 <tr><td width="50%">
 
-The resource was attached!
+Texas
 
 </td><td width="50%">
 
-The resource was attached!
-
-</td></tr>
-<tr><td width="50%">
-
-The resource was prevented from being saved!
-
-</td><td width="50%">
-
-The resource was prevented from being saved!
-
-</td></tr>
-<tr><td width="50%">
-
-There are no fields to display.
-
-</td><td width="50%">
-
-There are no fields to display.
-
-</td></tr>
-<tr><td width="50%">
-
-There are no new notifications.
-
-</td><td width="50%">
-
-There are no new notifications.
-
-</td></tr>
-<tr><td width="50%">
-
-There was a problem fetching the resource.
-
-</td><td width="50%">
-
-There was a problem fetching the resource.
-
-</td></tr>
-<tr><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td><td width="50%">
-
-This copy of Nova is unlicensed.
-
-</td></tr>
-<tr><td width="50%">
-
-To
-
-</td><td width="50%">
-
-To
-
-</td></tr>
-<tr><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td><td width="50%">
-
-To finish enabling two factor authentication, scan the following QR code using your phone's authenticator application or enter the setup key and provide the generated OTP code.
-
-</td></tr>
-<tr><td width="50%">
-
-Togo
-
-</td><td width="50%">
-
-Togo
+Texas
 
 </td></tr>
 <tr><td width="50%">
@@ -2064,6 +1369,15 @@ Tokelau
 </td><td width="50%">
 
 Tokelau
+
+</td></tr>
+<tr><td width="50%">
+
+Token Can
+
+</td><td width="50%">
+
+Token Can
 
 </td></tr>
 <tr><td width="50%">
@@ -2086,15 +1400,6 @@ Total:
 </td></tr>
 <tr><td width="50%">
 
-Trinidad and Tobago
-
-</td><td width="50%">
-
-Trinidad and Tobago
-
-</td></tr>
-<tr><td width="50%">
-
 Tunisia
 
 </td><td width="50%">
@@ -2113,38 +1418,11 @@ Turkmenistan
 </td></tr>
 <tr><td width="50%">
 
-Turks and Caicos Islands
-
-</td><td width="50%">
-
-Turks and Caicos Islands
-
-</td></tr>
-<tr><td width="50%">
-
 Tuvalu
 
 </td><td width="50%">
 
 Tuvalu
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application or enter the setup key.
-
-</td></tr>
-<tr><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
-
-</td><td width="50%">
-
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
 
 </td></tr>
 <tr><td width="50%">
@@ -2158,20 +1436,20 @@ Uganda
 </td></tr>
 <tr><td width="50%">
 
-United States Minor Outlying Islands
+Uruguay
 
 </td><td width="50%">
 
-United States Minor Outlying Islands
+Uruguay
 
 </td></tr>
 <tr><td width="50%">
 
-Uruguay
+Utah
 
 </td><td width="50%">
 
-Uruguay
+Utah
 
 </td></tr>
 <tr><td width="50%">
@@ -2203,20 +1481,56 @@ Venezuela
 </td></tr>
 <tr><td width="50%">
 
-Venezuela, Bolivarian Republic of
+Vermont
 
 </td><td width="50%">
 
-Venezuela, Bolivarian Republic of
+Vermont
 
 </td></tr>
 <tr><td width="50%">
 
-Wallis and Futuna
+Virginia
 
 </td><td width="50%">
 
-Wallis and Futuna
+Virginia
+
+</td></tr>
+<tr><td width="50%">
+
+Washington
+
+</td><td width="50%">
+
+Washington
+
+</td></tr>
+<tr><td width="50%">
+
+Wisconsin
+
+</td><td width="50%">
+
+Wisconsin
+
+</td></tr>
+<tr><td width="50%">
+
+Wyoming
+
+</td><td width="50%">
+
+Wyoming
+
+</td></tr>
+<tr><td width="50%">
+
+Yukon
+
+</td><td width="50%">
+
+Yukon
 
 </td></tr>
 <tr><td width="50%">
@@ -2235,89 +1549,6 @@ Zimbabwe
 </td><td width="50%">
 
 Zimbabwe
-
-</td></tr>
-<tr><td width="50%">
-
-Åland Islands
-
-</td><td width="50%">
-
-Åland Islands
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 7
-
-<table width="100%">
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
 
 </td></tr>
 </table>

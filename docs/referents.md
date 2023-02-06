@@ -25,7 +25,7 @@ az
 
 </td><td width="50%">
 
-@hs-qwerty
+@slvler
 
 </td></tr>
 <tr><td width="50%">
@@ -35,6 +35,15 @@ bn
 </td><td width="50%">
 
 @arman-arif
+
+</td></tr>
+<tr><td width="50%">
+
+bs
+
+</td><td width="50%">
+
+@jure-knezovic
 
 </td></tr>
 <tr><td width="50%">
@@ -89,6 +98,15 @@ fr
 </td><td width="50%">
 
 @caouecs, @WhereIsLucas
+
+</td></tr>
+<tr><td width="50%">
+
+hr
+
+</td><td width="50%">
+
+@jure-knezovic
 
 </td></tr>
 <tr><td width="50%">
@@ -156,6 +174,15 @@ pt_BR
 </td></tr>
 <tr><td width="50%">
 
+ro
+
+</td><td width="50%">
+
+@Van4kk
+
+</td></tr>
+<tr><td width="50%">
+
 ru
 
 </td><td width="50%">
@@ -178,7 +205,7 @@ sr_Latn
 
 </td><td width="50%">
 
-@LukaLatkovic
+@LukaLatkovic, @jure-knezovic
 
 </td></tr>
 <tr><td width="50%">
@@ -187,7 +214,7 @@ sr_Latn_ME
 
 </td><td width="50%">
 
-@LukaLatkovic
+@LukaLatkovic, @jure-knezovic
 
 </td></tr>
 <tr><td width="50%">
@@ -201,11 +228,20 @@ sw
 </td></tr>
 <tr><td width="50%">
 
+th
+
+</td><td width="50%">
+
+@pichaya07
+
+</td></tr>
+<tr><td width="50%">
+
 tr
 
 </td><td width="50%">
 
-@hs-qwerty
+@slvler
 
 </td></tr>
 <tr><td width="50%">
@@ -214,7 +250,7 @@ uk
 
 </td><td width="50%">
 
-@MrAlKuz
+@Oleksandr-Moik, @MrAlKuz
 
 </td></tr>
 <tr><td width="50%">

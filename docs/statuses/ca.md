@@ -4,365 +4,381 @@ editLink: false
 
 # ca
 
-##### All missed: 61
-
-
-### json-inline
-
-##### Missing: 14
-
-<table width="100%">
-<tr><td width="50%">
-
-The :attribute must be a valid role.
-
-</td><td width="50%">
-
-This field must be a valid role.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one number.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character, one number, and one special character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters and contain at least one uppercase character.
-
-</td><td width="50%">
-
-This field must be at least :length characters and contain at least one uppercase character.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must be at least :length characters.
-
-</td><td width="50%">
-
-This field must be at least :length characters.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td><td width="50%">
-
-This field must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td><td width="50%">
-
-This field must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td><td width="50%">
-
-This field must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td><td width="50%">
-
-This field must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td><td width="50%">
-
-The given field has appeared in a data leak. Please choose a different field.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
+##### All missed: 50
 
 
 ### json
 
-##### Missing: 32
+##### Missing: 50
 
 <table width="100%">
+<tr><th width="50%">
+
+Key
+
+</th><th width="50%">
+
+Value
+
+</th></tr>
 <tr><td width="50%">
 
-A new verification link has been sent to the email address you provided in your profile settings.
+Alabama
 
 </td><td width="50%">
 
-A new verification link has been sent to the email address you provided in your profile settings.
+Alabama
 
 </td></tr>
 <tr><td width="50%">
 
-A new verification link has been sent to your email address.
+Alaska
 
 </td><td width="50%">
 
-A new verification link has been sent to your email address.
+Alaska
 
 </td></tr>
 <tr><td width="50%">
 
-Are you sure you want to delete this notification?
+Alberta
 
 </td><td width="50%">
 
-Are you sure you want to delete this notification?
+Alberta
 
 </td></tr>
 <tr><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+API
 
 </td><td width="50%">
 
-Before continuing, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.
+API
 
 </td></tr>
 <tr><td width="50%">
 
-Click here to re-send the verification email.
+Arizona
 
 </td><td width="50%">
 
-Click here to re-send the verification email.
+Arizona
 
 </td></tr>
 <tr><td width="50%">
 
-Copy to clipboard
+Arkansas
 
 </td><td width="50%">
 
-Copy to clipboard
+Arkansas
 
 </td></tr>
 <tr><td width="50%">
 
-Edit Profile
+Colorado
 
 </td><td width="50%">
 
-Edit Profile
+Colorado
 
 </td></tr>
 <tr><td width="50%">
 
-From
+Connecticut
 
 </td><td width="50%">
 
-From
+Connecticut
 
 </td></tr>
 <tr><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+Delaware
 
 </td><td width="50%">
 
-If necessary, you may logout of all of your other browser sessions across all of your devices. Some of your recent sessions are listed below; however, this list may not be exhaustive. If you feel your account has been compromised, you should also update your password.
+Delaware
 
 </td></tr>
 <tr><td width="50%">
 
-Log Viewer
+Dominica
 
 </td><td width="50%">
 
-Log Viewer
+Dominica
 
 </td></tr>
 <tr><td width="50%">
 
-Logout Other Browser Sessions
+Florida
 
 </td><td width="50%">
 
-Logout Other Browser Sessions
+Florida
 
 </td></tr>
 <tr><td width="50%">
 
-Logs
+Hawaii
 
 </td><td width="50%">
 
-Logs
+Hawaii
 
 </td></tr>
 <tr><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Idaho
 
 </td><td width="50%">
 
-Manage and logout your active sessions on other browsers and devices.
+Idaho
 
 </td></tr>
 <tr><td width="50%">
 
-Mark all as Read
+Illinois
 
 </td><td width="50%">
 
-Mark all as Read
+Illinois
 
 </td></tr>
 <tr><td width="50%">
 
-Nevermind
+Indiana
 
 </td><td width="50%">
 
-Nevermind
+Indiana
 
 </td></tr>
 <tr><td width="50%">
 
-Notifications
+Iowa
 
 </td><td width="50%">
 
-Notifications
+Iowa
 
 </td></tr>
 <tr><td width="50%">
 
-Oh no
+Kansas
 
 </td><td width="50%">
 
-Oh no
+Kansas
 
 </td></tr>
 <tr><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+Kentucky
 
 </td><td width="50%">
 
-Please enter your password to confirm you would like to logout of your other browser sessions across all of your devices.
+Kentucky
 
 </td></tr>
 <tr><td width="50%">
 
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+Louisiana
 
 </td><td width="50%">
 
-Please provide the email address of the person you would like to add to this team. The email address must be associated with an existing account.
+Louisiana
 
 </td></tr>
 <tr><td width="50%">
 
-Refresh
+Maine
 
 </td><td width="50%">
 
-Refresh
+Maine
 
 </td></tr>
 <tr><td width="50%">
 
-Réunion
+Manitoba
 
 </td><td width="50%">
 
-Réunion
+Manitoba
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to bottom
+Maryland
 
 </td><td width="50%">
 
-Scroll to bottom
+Maryland
 
 </td></tr>
 <tr><td width="50%">
 
-Scroll to top
+Massachusetts
 
 </td><td width="50%">
 
-Scroll to top
+Massachusetts
 
 </td></tr>
 <tr><td width="50%">
 
-Select a log file...
+Michigan
 
 </td><td width="50%">
 
-Select a log file...
+Michigan
+
+</td></tr>
+<tr><td width="50%">
+
+Minnesota
+
+</td><td width="50%">
+
+Minnesota
+
+</td></tr>
+<tr><td width="50%">
+
+Missouri
+
+</td><td width="50%">
+
+Missouri
+
+</td></tr>
+<tr><td width="50%">
+
+mo
+
+</td><td width="50%">
+
+mo
+
+</td></tr>
+<tr><td width="50%">
+
+Montana
+
+</td><td width="50%">
+
+Montana
+
+</td></tr>
+<tr><td width="50%">
+
+N/A
+
+</td><td width="50%">
+
+N/A
+
+</td></tr>
+<tr><td width="50%">
+
+Nebraska
+
+</td><td width="50%">
+
+Nebraska
+
+</td></tr>
+<tr><td width="50%">
+
+Nevada
+
+</td><td width="50%">
+
+Nevada
+
+</td></tr>
+<tr><td width="50%">
+
+Nunavut
+
+</td><td width="50%">
+
+Nunavut
+
+</td></tr>
+<tr><td width="50%">
+
+Oh no!
+
+</td><td width="50%">
+
+Oh no!
+
+</td></tr>
+<tr><td width="50%">
+
+Ohio
+
+</td><td width="50%">
+
+Ohio
+
+</td></tr>
+<tr><td width="50%">
+
+Oklahoma
+
+</td><td width="50%">
+
+Oklahoma
+
+</td></tr>
+<tr><td width="50%">
+
+Ontario
+
+</td><td width="50%">
+
+Ontario
+
+</td></tr>
+<tr><td width="50%">
+
+Oregon
+
+</td><td width="50%">
+
+Oregon
+
+</td></tr>
+<tr><td width="50%">
+
+Quebec
+
+</td><td width="50%">
+
+Quebec
+
+</td></tr>
+<tr><td width="50%">
+
+Rhode Island
+
+</td><td width="50%">
+
+Rhode Island
+
+</td></tr>
+<tr><td width="50%">
+
+Saskatchewan
+
+</td><td width="50%">
+
+Saskatchewan
 
 </td></tr>
 <tr><td width="50%">
@@ -376,211 +392,83 @@ Sint Maarten
 </td></tr>
 <tr><td width="50%">
 
-Start polling
+Tennessee
 
 </td><td width="50%">
 
-Start polling
+Tennessee
 
 </td></tr>
 <tr><td width="50%">
 
-Stop polling
+Texas
 
 </td><td width="50%">
 
-Stop polling
+Texas
 
 </td></tr>
 <tr><td width="50%">
 
-The action was executed successfully.
+Token Can
 
 </td><td width="50%">
 
-The action was executed successfully.
+Token Can
 
 </td></tr>
 <tr><td width="50%">
 
-There was a problem fetching the resource.
+Utah
 
 </td><td width="50%">
 
-There was a problem fetching the resource.
+Utah
 
 </td></tr>
 <tr><td width="50%">
 
-To
+Vermont
 
 </td><td width="50%">
 
-To
+Vermont
 
 </td></tr>
 <tr><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Washington
 
 </td><td width="50%">
 
-Two factor authentication is now enabled. Scan the following QR code using your phone's authenticator application.
+Washington
 
 </td></tr>
 <tr><td width="50%">
 
-Your email address is unverified.
+Wisconsin
 
 </td><td width="50%">
 
-Your email address is unverified.
-
-</td></tr>
-</table>
-
-[ [go back](../status.md) | [to top](#) ]
-
-
-
-### php
-
-##### Missing: 15
-
-<table width="100%">
-<tr><td width="50%">
-
-accepted_if
-
-</td><td width="50%">
-
-The :attribute must be accepted when :other is :value.
+Wisconsin
 
 </td></tr>
 <tr><td width="50%">
 
-current_password
+Wyoming
 
 </td><td width="50%">
 
-The password is incorrect.
+Wyoming
 
 </td></tr>
 <tr><td width="50%">
 
-declined
+Yukon
 
 </td><td width="50%">
 
-The :attribute must be declined.
-
-</td></tr>
-<tr><td width="50%">
-
-declined_if
-
-</td><td width="50%">
-
-The :attribute must be declined when :other is :value.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_end_with
-
-</td><td width="50%">
-
-The :attribute may not end with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-doesnt_start_with
-
-</td><td width="50%">
-
-The :attribute may not start with one of the following: :values.
-
-</td></tr>
-<tr><td width="50%">
-
-enum
-
-</td><td width="50%">
-
-The selected :attribute is invalid.
-
-</td></tr>
-<tr><td width="50%">
-
-mac_address
-
-</td><td width="50%">
-
-The :attribute must be a valid MAC address.
-
-</td></tr>
-<tr><td width="50%">
-
-password.letters
-
-</td><td width="50%">
-
-The :attribute must contain at least one letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.mixed
-
-</td><td width="50%">
-
-The :attribute must contain at least one uppercase and one lowercase letter.
-
-</td></tr>
-<tr><td width="50%">
-
-password.numbers
-
-</td><td width="50%">
-
-The :attribute must contain at least one number.
-
-</td></tr>
-<tr><td width="50%">
-
-password.symbols
-
-</td><td width="50%">
-
-The :attribute must contain at least one symbol.
-
-</td></tr>
-<tr><td width="50%">
-
-password.uncompromised
-
-</td><td width="50%">
-
-The given :attribute has appeared in a data leak. Please choose a different :attribute.
-
-</td></tr>
-<tr><td width="50%">
-
-prohibits
-
-</td><td width="50%">
-
-The :attribute field prohibits :other from being present.
-
-</td></tr>
-<tr><td width="50%">
-
-required_array_keys
-
-</td><td width="50%">
-
-The :attribute field must contain entries for: :values.
+Yukon
 
 </td></tr>
 </table>
